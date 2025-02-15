@@ -176,7 +176,6 @@ class MainActivity : AppCompatActivity() {
         scannedAadhaar = ""
         scannedDob = ""
 
-
         findViewById<TextView>(R.id.nameText).text = ""
         findViewById<TextView>(R.id.aadharNumberText).text = ""
         findViewById<TextView>(R.id.dobText).text = ""
