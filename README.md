@@ -38,7 +38,6 @@ An Android application that allows users to scan Aadhaar cards using **ML Kit's 
 **Step-1** Clone the repository  
   ```sh
   git clone https://github.com/ishabodiwala/Scan-AadharCard.git
-  cd Scan-AadharCard
   ```
 
 **Step-2** Open the project in Android Studio
@@ -54,6 +53,6 @@ An Android application that allows users to scan Aadhaar cards using **ML Kit's 
 1. **Open the app** on your Android device.  
 2. **Grant camera permissions** when prompted.  
 3. **Position the Aadhaar card** within the camera frame.  
-4. **Wait for the app to process** and extract text using ML Kit.  
+4. **Wait for the app to process** and extract the text using ML Kit.  
 5. **Review the extracted information** displayed on the screen.  
 6. **Tap "Save to Sheet"** to store the data in Google Sheets.  
