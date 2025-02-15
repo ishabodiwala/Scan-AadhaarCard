@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ScanCard</string>
+    <string name="save_to_sheet">Save to Sheet</string>
+</resources>
