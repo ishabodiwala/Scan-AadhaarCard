@@ -56,3 +56,11 @@ An Android application that allows users to scan Aadhaar cards using **ML Kit's 
 4. **Wait for the app to process** and extract the text using ML Kit.  
 5. **Review the extracted information** displayed on the screen.  
 6. **Tap "Save to Sheet"** to store the data in Google Sheets.  
+
+## Demo
+
+
+https://github.com/user-attachments/assets/d18f9044-826b-42e0-85f0-b2678bd5d8f0
+
+
+
